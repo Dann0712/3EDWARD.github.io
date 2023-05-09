@@ -1,0 +1,144 @@
+.container {
+    width: 90%;
+    max-width: 200%;
+    margin: 0 auto;
+  }
+  
+  .container path {
+    cursor: pointer;
+    fill: #793d06; /* color verde */
+    stroke: #bee60d;
+    stroke-width: 2px;
+    transition: transform 0.2s ease-in-out; /* transición suave */
+  }
+  
+  .container path:hover {
+    fill: #1cc22a;
+    transform: translate(5px, 5px); /* efecto de movimiento */
+  }
+
+/*CODIGO PARA CAMBIAR UNICAMENTE UN ESTADO*/
+  #MEX2706:hover {
+    fill: #b4dfd7;
+    transform: translate(5px, 5px);
+  }
+  #MEX2707:hover {
+    fill: #f71170;
+    transform: translate(5px, 5px);
+  }
+  #MEX2708:hover {
+    fill: #dfb4d7;
+    transform: translate(5px, 5px);
+  }
+  #MEX2709:hover {
+    fill: #d7dfb4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2710:hover {
+    fill: #2e3896;
+    transform: translate(5px, 5px);
+  }
+  #MEX2711:hover {
+    fill: #d158b3;
+    transform: translate(5px, 5px);
+  }
+  #MEX2712:hover {
+    fill: #dfd7b4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2713:hover {
+    fill: #552c2c;
+    transform: translate(5px, 5px);
+  }
+  #MEX2714:hover {
+    fill: #b4b4df;
+    transform: translate(5px, 5px);
+  }
+  #MEX2715:hover {
+    fill: #456945;
+    transform: translate(5px, 5px);
+  }
+  #MEX2716:hover {
+    fill: #db3232;
+    transform: translate(5px, 5px);
+  }
+  #MEX2717:hover {
+    fill: #4bdddd;
+    transform: translate(5px, 5px);
+  }
+  #MEX2718:hover {
+    fill: #dfd7df;
+    transform: translate(5px, 5px);
+  }
+  #MEX2719:hover {
+    fill: #dfd7b4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2720:hover {
+    fill: #39e0e0;
+    transform: translate(5px, 5px);
+  }
+  #MEX2721:hover {
+    fill: #dfb4df;
+    transform: translate(5px, 5px);
+  }
+  #MEX2722:hover {
+    fill: #b4dfd7;
+    transform: translate(5px, 5px);
+  }
+  #MEX2723:hover {
+    fill: #67ce67;
+    transform: translate(5px, 5px);
+  }
+  #MEX2724:hover {
+    fill: #dfd7df;
+    transform: translate(5px, 5px);
+  }
+  #MEX2725:hover {
+    fill: #f88ce4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2726:hover {
+    fill: #ba43d4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2727:hover {
+    fill: #b4d7d7;
+    transform: translate(5px, 5px);
+  }
+  #MEX2728:hover {
+    fill: #adc73c;
+    transform: translate(5px, 5px);
+  }
+  #MEX2729:hover {
+    fill: #b4dfdf;
+    transform: translate(5px, 5px);
+  }
+  #MEX2730:hover {
+    fill: #d7b4d7;
+    transform: translate(5px, 5px);
+  }
+  #MEX2731:hover {
+    fill: #758149;
+    transform: translate(5px,5px)
+  }
+  #MEX2732:hover {
+    fill: #6dd644c4;
+    transform: translate(5px, 5px);
+  }
+  #MEX2733:hover {
+    fill: #22e6d5;
+    transform: translate(5px, 5px);
+  }
+  #MEX2734:hover {
+    fill: #1583cccc;
+    transform: translate(5px, 5px);
+  }
+  #MEX2735:hover {
+    fill: #35287ead;
+    transform: translate(5px, 5px);
+  }
+  #MEX2736:hover {
+    fill: #723272;
+    transform: translate(5px, 5px);
+  }
